@@ -14,7 +14,7 @@ The NJU version modifications by Sheng Lyu(lyusheng.nj@gmail.com) Nanjing Univer
 
 
 
-![image-20211120004745792](README.assets/image-20211120004745792.png)
+![image-20211120004745792](https://github.com/fantasyEthan/NJU_Reference_Letter/blob/master/image-20211120004745792.png)
 
 ## 运行方式
 
